@@ -16,8 +16,8 @@ I know a variety of programming languages including(but not limited to):
 
 I have made, and worked one a few open source projects, you can learn more about them here:
 
-- [Bay Airea](pradymagal.github.io/BayAirea)
-- [LISTM](pradymagal.github.io/Listm)
+- [Bay Airea](https://pradymagal.github.io/BayAirea/)
+- [LISTM](https://pradymagal.github.io/Listm/)
  - Compare'n Share
 ```markdown
 Syntax highlighted code block
