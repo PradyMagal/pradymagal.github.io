@@ -12,10 +12,13 @@ I know a variety of programming languages including(but not limited to):
 
 
 
-### Markdown
+### My Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have made, and worked one a few open source projects, you can learn more about them here:
 
+- [Bay Airea](pradymagal.github.io/BayAirea)
+- [LISTM](pradymagal.github.io/Listm)
+ - Compare'n Share
 ```markdown
 Syntax highlighted code block
 
