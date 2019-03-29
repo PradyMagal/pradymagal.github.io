@@ -19,18 +19,12 @@ I have made, and worked one a few open source projects, you can learn more about
 - [Bay Airea](https://pradymagal.github.io/BayAirea/)
 - [LISTM](https://pradymagal.github.io/Listm/)
  - Compare'n Share
-```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
