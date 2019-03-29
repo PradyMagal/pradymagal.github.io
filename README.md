@@ -12,7 +12,7 @@ I know a variety of programming languages including(but not limited to):
 
 
 
-### My Projects
+## My Projects
 
 I have made, and worked one a few open source projects, you can learn more about them here:
 
