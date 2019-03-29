@@ -22,9 +22,10 @@ I have made, and worked one a few projects/apps, you can learn more about them h
 - [Compare](http://accelerate.im/projects/114)
 
 Most of them are open source, because we all know 
+
 `
  if(code_is_free == true){
-    mood = "Yasss"
+    console.log("Yasss");
  }
 `
 # Header 1
