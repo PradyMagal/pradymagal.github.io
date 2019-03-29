@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Hi, I'm Pradyun!
 
-You can use the [editor on GitHub](https://github.com/PradyMagal/pradymagal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hey guys! I am a software developer, app maker, and overall, complete geek!
+
+I know a variety of programming languages including(but not limited to):
+
+- Python
+- Java and its frameworks(Flutter, Dart, etc.)
+- JavaScript and its frameworks(React JS, React Native, Ionic, etc.)
+- C/C#
+
+
 
 ### Markdown
 
