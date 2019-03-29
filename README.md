@@ -1,7 +1,7 @@
 ## Hi, I'm Pradyun!
 
 
-Hey guys! I am a software developer, app maker, and overall, complete geek!
+Hey guys! I am a software developer, app maker, and overall, geek!
 
 I know a variety of programming languages including(but not limited to):
 
