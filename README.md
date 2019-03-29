@@ -14,13 +14,19 @@ I know a variety of programming languages including(but not limited to):
 
 ## My Projects
 
-I have made, and worked one a few open source projects, you can learn more about them here:
+I have made, and worked one a few projects/apps, you can learn more about them here:
 
 - [Bay Airea](https://pradymagal.github.io/BayAirea/)
 - [LISTM](https://pradymagal.github.io/Listm/)
- - Compare'n Share
-Syntax highlighted code block
+- Compare'n Share
+- [Compare](http://accelerate.im/projects/114)
 
+Most of them are open source, because we all know 
+`
+ if(code_is_free == true){
+    mood = "Yasss"
+ }
+`
 # Header 1
 ## Header 2
 ### Header 3
