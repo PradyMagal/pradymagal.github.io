@@ -14,7 +14,11 @@ I know a variety of programming languages including(but not limited to):
 
 ## My Projects and Resume
 
-I have made, and worked on quite a few projects/apps, My full resume is [here](https://docs.google.com/document/d/1mQf6eWdYJ5H7GjqrVakXtlDML5K0DlS3BqxmB5JvDWU/) , but here is a much shortened version:
+I have made, and worked on quite a few projects/apps, 
+
+**My full resume is [here](https://docs.google.com/document/d/1mQf6eWdYJ5H7GjqrVakXtlDML5K0DlS3BqxmB5JvDWU/)**
+
+, but here is a much shortened version:
 
 - [Bay Airea](https://pradymagal.github.io/BayAirea/)
 - [LISTM](https://pradymagal.github.io/Listm/)
