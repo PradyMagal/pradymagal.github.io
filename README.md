@@ -20,7 +20,7 @@ I have made, and worked on quite a few projects/apps,
 , but here is a much shortened version:
 
 - [Bay Airea](https://pradymagal.github.io/BayAirea/)
-- [Netsays](https://pradymagal.github.io/Netsays/)
+- [Netsays](https://github.com/PradyMagal/Netsays)
 - Compare'n Share
 - [Compare](http://accelerate.im/projects/114)
 - I made the website for my high school club, [Asian Student Union](https://asumvhs.org)
