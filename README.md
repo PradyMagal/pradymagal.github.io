@@ -20,9 +20,10 @@ I have made, and worked on quite a few projects/apps,
 , but here is a much shortened version:
 
 - [Bay Airea](https://pradymagal.github.io/BayAirea/)
-- [LISTM](https://pradymagal.github.io/Listm/)
+- [Netsays](https://pradymagal.github.io/Netsays/)
 - Compare'n Share
 - [Compare](http://accelerate.im/projects/114)
+- I made the website for my high school club, [Asian Student Union](https://asumvhs.org)
 
 Most of them are open source, because we all know 
 
