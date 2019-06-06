@@ -25,13 +25,7 @@ I have made, and worked on quite a few projects/apps,
 - [Compare](http://accelerate.im/projects/114)
 - I made the website for my high school club, [Asian Student Union](https://asumvhs.org)
 
-Most of them are open source, because we all know 
-
-`
- if(code_is_free == true){
-    console.log("Woot Woot!");
- }
-`
+Most of them are open source, and all are free of charge
 
 ## Contact
 
